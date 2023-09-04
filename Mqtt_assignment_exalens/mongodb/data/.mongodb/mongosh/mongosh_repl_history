@@ -1,0 +1,17 @@
+show databases
+it
+db.sensor_readings.find()
+db.sesnor_readings.find()
+sensor_readings.find()
+show sensor_readings
+show tables
+use sensor_data
+show databases
+show db
+show dbs()
+it
+db.sensor_readings.find()
+show tables
+use sensor_data
+show dbs
+show tables
